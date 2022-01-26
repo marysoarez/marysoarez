@@ -1,8 +1,6 @@
 OI! Meu nome é Mary!
 
-- 🌱 Aprendendo C#
-- 😄 Pronouns: Ela/Dela
-
+DEV Jr
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mary-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-
