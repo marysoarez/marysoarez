@@ -15,7 +15,9 @@ DEV Jr
 
 <img align="center" alt="Mary-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"">
  
-  <img align="center" alt="Mary-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="Mary-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"">
+  
+  
 </div>
 <br>
 
