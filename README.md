@@ -1,6 +1,6 @@
 OI! Meu nome é Mary!
 
-DEV Jr
+Eu Estou organizando e subindo meus projetos aos poucos, jájá a casa estará organizada 🤞🙏
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Mary-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
