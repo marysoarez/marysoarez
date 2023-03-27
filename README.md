@@ -1,6 +1,6 @@
 OI! Meu nome é Mary!
 
-Eu sou desenvolvedora Júnior com foco em Java e Android
+Eu sou desenvolvedora FullStack Júnior com foco em Java e Android
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Mary-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
