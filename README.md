@@ -1,6 +1,6 @@
 OI! Meu nome é Mary!
 
-Eu sou desenvolvedora FullStack Júnior com foco em Java e Android
+Eu sou desenvolvedora Mobile
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Mary-Kt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
